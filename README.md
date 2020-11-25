@@ -59,7 +59,7 @@ Or you can simply run
 
 ```
 
-4. Create a webhook controller to handle the callback request at your `RESULT_URL` and catch the webhook as follows
+4. Create a webhook controller to handle the callback request at your `RETURN_URL` and catch the webhook as follows
 
 ```php
 
