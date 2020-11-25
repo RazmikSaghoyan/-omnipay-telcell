@@ -29,10 +29,5 @@
     },
     "require-dev": {
         "omnipay/tests": "^3"
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "dev"
-        }
     }
 }
