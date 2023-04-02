@@ -41,7 +41,7 @@ Or you can simply run
 
 ```php
 
-    $gateway = Omnipay::create('TelCell');
+    $gateway = Omnipay::create('Telcell');
     $gateway->setShopId(env('SHOP_ID'));
     $gateway->setShopKey(env('SHOP_KEY'));
     $gateway->setSum(10); // Amount to charge
@@ -63,7 +63,7 @@ Or you can simply run
 
 ```php
 
-    $gateway = Omnipay::create('TelCell');
+    $gateway = Omnipay::create('Telcell');
     $gateway->setShopId(env('SHOP_ID'));
     $gateway->setShopKey(env('SHOP_KEY'));
     
